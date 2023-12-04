@@ -1,4 +1,0 @@
-(programação2024)
--> fazer os iframe
--> bug no srchopp
--> testar outras fontes
